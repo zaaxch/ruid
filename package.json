@@ -1,0 +1,15 @@
+{
+	"name": "ruid",
+	"version": "1.0.0",
+	"description": "RUID generator port for Node.",
+	"main": "dist/ruid.js",
+	"types": "dist/ruid.d.ts",
+	"scripts": {
+		"install": "tsc"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"typescript": "^3.9.5"
+	}
+}
